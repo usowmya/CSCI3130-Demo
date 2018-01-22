@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CSCI3130-Demo</string>
+    <string name="EditText">Enter the text</string>
+    <string name="Button">Copy</string>
 </resources>
